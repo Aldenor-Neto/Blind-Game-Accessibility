@@ -46,7 +46,7 @@
 ## Contribuições
 Para contribuir com este projeto ou reportar problemas, acesse o repositório no GitHub:
 
-[GitHub Repository](URL_DO_REPOSITORIO)
+[GitHub Repository](https://github.com/Aldenor-Neto/Blind-Game-Accessibility)
 
 ---
 
